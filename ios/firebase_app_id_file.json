@@ -1,7 +1,7 @@
 {
   "file_generated_by": "FlutterFire CLI",
   "purpose": "FirebaseAppID & ProjectID for this Firebase app in this directory",
-  "GOOGLE_APP_ID": "1:725973648205:ios:47acdb259c0013898d2d04",
-  "FIREBASE_PROJECT_ID": "spa-app-6ff6c",
-  "GCM_SENDER_ID": "725973648205"
+  "GOOGLE_APP_ID": "1:1004917634271:ios:937dab7ab790eb3e40656a",
+  "FIREBASE_PROJECT_ID": "test-upload-outlines",
+  "GCM_SENDER_ID": "1004917634271"
 }

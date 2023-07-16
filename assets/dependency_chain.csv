@@ -1,0 +1,11 @@
+s.no,Topic_name,Dependencies
+T1,Variable and Data Types,0
+T2,Control Structures,T1
+T3,Functions and Procedures,T1
+T4,Arrays and Lists,T1
+T5,Object-Oriented Programming,"T1,T2,T3,T4"
+T6,File Handling and input/output,0
+T7,Error Handling and Exception Handling,0
+T8,Recursion,"T3,T4"
+T9,Algorithms and Data Structures,"T2,T4,T5,"
+T10,Testing and Debugging,"T7,T9"
